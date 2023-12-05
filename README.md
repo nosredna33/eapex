@@ -27,4 +27,4 @@ Esse projeto nasceu da necessidade de formar pessoas na cultura *Low-Code*, usan
  2. Apoiando o projeto no GitHub, com conteúdos!
  3. Vendendo os seus conteúdos na plataforma!
  4. Fazendo doações expontâneas nesse PIX!
-<img src="https://eapex.com.br/site/images/PIX.png" alt="O EAPEX é uma universidade aberta para reunir o maior número de pessoas interessadas no uso da ferramenta Oracle APEX." width="320" height="240">
+<img src="https://eapex.com.br/site/images/PIX.png" alt="O EAPEX é uma universidade aberta para reunir o maior número de pessoas interessadas no uso da ferramenta Oracle APEX." width="240" height="320">
